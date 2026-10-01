@@ -1,0 +1,705 @@
+[
+  {
+    "id": "earth",
+    "name": "Terra",
+    "tagline": "Nossa casa azul",
+    "category": "planetas",
+    "color": "#63dbc1",
+    "game": "count",
+    "emoji": "🌍",
+    "intro": "Sou a Terra, a casa do Tomás! Vamos explorar juntos?",
+    "facts": [
+      {
+        "title": "Um planeta cheio de vida",
+        "text": "Aqui vivem pessoas, animais e plantas. É nosso lar!",
+        "visual": "leaf"
+      },
+      {
+        "title": "Azul de água",
+        "text": "Os oceanos cobrem grande parte da Terra. Quanta água!",
+        "visual": "water"
+      },
+      {
+        "title": "Dia e noite",
+        "text": "A Terra gira. O lado iluminado pelo Sol tem dia.",
+        "visual": "day"
+      },
+      {
+        "title": "Nossa companheira",
+        "text": "A Lua acompanha a Terra pelo espaço. Ela reflete luz solar.",
+        "visual": "orbit"
+      },
+      {
+        "title": "Uma volta por ano",
+        "text": "A Terra leva cerca de um ano para contornar o Sol.",
+        "visual": "orbit"
+      }
+    ]
+  },
+  {
+    "id": "moon",
+    "name": "Lua",
+    "tagline": "Uma vizinha cheia de crateras",
+    "category": "universo",
+    "color": "#d6dcec",
+    "game": "jump",
+    "emoji": "🌙",
+    "intro": "Oi, Tomás! Venha conhecer minha superfície cheia de crateras!",
+    "facts": [
+      {
+        "title": "Pulos bem altos",
+        "text": "A gravidade lunar é menor. Podemos pular mais alto aqui!",
+        "visual": "jump"
+      },
+      {
+        "title": "Luz emprestada",
+        "text": "A Lua não produz luz própria. Ela reflete a luz solar.",
+        "visual": "light"
+      },
+      {
+        "title": "Marquinhas espaciais",
+        "text": "Rochas espaciais fizeram muitas crateras. São marcas de impactos.",
+        "visual": "crater"
+      },
+      {
+        "title": "Mudando de carinha",
+        "text": "Vemos partes diferentes da metade iluminada. São as fases lunares.",
+        "visual": "phase"
+      },
+      {
+        "title": "Pegadas na Lua",
+        "text": "Astronautas já caminharam na Lua. Usaram trajes especiais!",
+        "visual": "suit"
+      }
+    ]
+  },
+  {
+    "id": "sun",
+    "name": "Sol",
+    "tagline": "A estrela da nossa turma",
+    "category": "universo",
+    "color": "#ffbe50",
+    "game": "hot",
+    "emoji": "☀️",
+    "intro": "Olá, Tomás! Sou o Sol, a estrela do nosso sistema!",
+    "facts": [
+      {
+        "title": "Luz e calor",
+        "text": "A luz e o calor do Sol ajudam a vida terrestre.",
+        "visual": "light"
+      },
+      {
+        "title": "Uma estrela de perto",
+        "text": "O Sol é uma estrela. As outras ficam muito longe!",
+        "visual": "star"
+      },
+      {
+        "title": "Muito maior",
+        "text": "O Sol é muito maior que a Terra. Que grandão!",
+        "visual": "size"
+      },
+      {
+        "title": "Uma viagem de luz",
+        "text": "A luz solar demora cerca de oito minutos para chegar aqui.",
+        "visual": "light"
+      },
+      {
+        "title": "Olhinhos protegidos",
+        "text": "Nunca olhe diretamente para o Sol. Proteja seus olhinhos!",
+        "visual": "safe"
+      }
+    ]
+  },
+  {
+    "id": "mercury",
+    "name": "Mercúrio",
+    "tagline": "Pequeno e apressadinho",
+    "category": "planetas",
+    "color": "#b5ac9f",
+    "game": "craters",
+    "emoji": "⚪",
+    "intro": "Sou Mercúrio! Sou pequeno e fico pertinho do Sol!",
+    "facts": [
+      {
+        "title": "O primeiro da fila",
+        "text": "Mercúrio é o primeiro planeta a partir do Sol.",
+        "visual": "order"
+      },
+      {
+        "title": "O menor planeta",
+        "text": "Entre os oito planetas, Mercúrio é o menor.",
+        "visual": "size"
+      },
+      {
+        "title": "Ano rapidinho",
+        "text": "Minha volta ao Sol dura cerca de oitenta e oito dias!",
+        "visual": "orbit"
+      },
+      {
+        "title": "Cheio de crateras",
+        "text": "Minha superfície é rochosa e tem muitas crateras.",
+        "visual": "crater"
+      },
+      {
+        "title": "Quente e frio",
+        "text": "Aqui faz muito calor durante o dia. À noite, muito frio!",
+        "visual": "hot"
+      }
+    ]
+  },
+  {
+    "id": "venus",
+    "name": "Vênus",
+    "tagline": "Um mundo coberto de nuvens",
+    "category": "planetas",
+    "color": "#eeac70",
+    "game": "hot",
+    "emoji": "🟠",
+    "intro": "Oi, Tomás! Eu sou Vênus, um planeta cheio de nuvens!",
+    "facts": [
+      {
+        "title": "O segundo planeta",
+        "text": "Sou o segundo planeta a partir do Sol.",
+        "visual": "order"
+      },
+      {
+        "title": "Mais quente de todos",
+        "text": "Minhas nuvens e atmosfera prendem muito calor. Sou muito quente!",
+        "visual": "hot"
+      },
+      {
+        "title": "Quase do mesmo tamanho",
+        "text": "Vênus e Terra têm tamanhos parecidos. Mas são muito diferentes!",
+        "visual": "size"
+      },
+      {
+        "title": "Giro diferente",
+        "text": "Giro no sentido contrário ao da maioria dos planetas.",
+        "visual": "spin"
+      },
+      {
+        "title": "Brilhante no céu",
+        "text": "Posso brilhar bastante no céu. Mas não sou uma estrela!",
+        "visual": "star"
+      }
+    ]
+  },
+  {
+    "id": "mars",
+    "name": "Marte",
+    "tagline": "Nosso vizinho vermelho",
+    "category": "planetas",
+    "color": "#f98262",
+    "game": "moons",
+    "emoji": "🔴",
+    "intro": "Olá, Tomás! Sou Marte. Minha poeira tem cor avermelhada!",
+    "facts": [
+      {
+        "title": "Vermelho de ferrugem",
+        "text": "Minha poeira tem minerais com ferro oxidado. Lembra ferrugem!",
+        "visual": "color"
+      },
+      {
+        "title": "Duas pequenas luas",
+        "text": "Tenho duas luas: Fobos e Deimos. Vamos contar até dois?",
+        "visual": "count"
+      },
+      {
+        "title": "Robôs exploradores",
+        "text": "Robôs com rodas exploram Marte. Eles enviam descobertas à Terra!",
+        "visual": "rover"
+      },
+      {
+        "title": "Montanha gigante",
+        "text": "O Monte Olimpo é um vulcão enorme. Maior que montanhas terrestres!",
+        "visual": "mountain"
+      },
+      {
+        "title": "Um mundo frio",
+        "text": "Apesar da cor quentinha, Marte é um planeta frio.",
+        "visual": "cold"
+      }
+    ]
+  },
+  {
+    "id": "jupiter",
+    "name": "Júpiter",
+    "tagline": "O gigante do Sistema Solar",
+    "category": "planetas",
+    "color": "#e4b98a",
+    "game": "biggest",
+    "emoji": "🟤",
+    "intro": "Oi, Tomás! Eu sou Júpiter, o maior dos planetas!",
+    "facts": [
+      {
+        "title": "Gigante de gás",
+        "text": "Sou formado principalmente por gases. Não tenho chão para caminhar!",
+        "visual": "gas"
+      },
+      {
+        "title": "Uma tempestade enorme",
+        "text": "Minha Grande Mancha Vermelha é uma tempestade gigantesca.",
+        "visual": "storm"
+      },
+      {
+        "title": "Faixas coloridas",
+        "text": "As faixas que você vê são nuvens na minha atmosfera.",
+        "visual": "cloud"
+      },
+      {
+        "title": "Muitas companheiras",
+        "text": "Muitas luas giram ao meu redor. Uma delas chama-se Europa!",
+        "visual": "orbit"
+      },
+      {
+        "title": "Giro rapidinho",
+        "text": "Um dia em Júpiter dura cerca de dez horas.",
+        "visual": "spin"
+      }
+    ]
+  },
+  {
+    "id": "saturn",
+    "name": "Saturno",
+    "tagline": "Um planeta com muitos anéis",
+    "category": "planetas",
+    "color": "#f3d090",
+    "game": "rings",
+    "emoji": "🪐",
+    "intro": "Olá, Tomás! Sou Saturno. Venha conhecer meus anéis!",
+    "facts": [
+      {
+        "title": "Anéis de pedacinhos",
+        "text": "Meus anéis têm incontáveis pedacinhos de gelo e rocha.",
+        "visual": "ring"
+      },
+      {
+        "title": "Segundo grandalhão",
+        "text": "Só Júpiter é maior que eu entre os planetas.",
+        "visual": "size"
+      },
+      {
+        "title": "Sem chão para pisar",
+        "text": "Também sou um gigante gasoso. Observamos de dentro da nave.",
+        "visual": "gas"
+      },
+      {
+        "title": "Uma lua com atmosfera",
+        "text": "Titã, uma das minhas luas, tem uma atmosfera espessa.",
+        "visual": "cloud"
+      },
+      {
+        "title": "Anéis para outros",
+        "text": "Júpiter, Urano e Netuno também têm anéis. São menos visíveis!",
+        "visual": "ring"
+      }
+    ]
+  },
+  {
+    "id": "uranus",
+    "name": "Urano",
+    "tagline": "O planeta que gira de ladinho",
+    "category": "planetas",
+    "color": "#a3e8ea",
+    "game": "tilt",
+    "emoji": "🔵",
+    "intro": "Oi, Tomás! Eu sou Urano. Veja como giro de ladinho!",
+    "facts": [
+      {
+        "title": "Quase deitado",
+        "text": "Meu eixo é muito inclinado. Por isso, giro de ladinho!",
+        "visual": "tilt"
+      },
+      {
+        "title": "Azul esverdeado",
+        "text": "O gás metano na atmosfera ajuda a dar minha cor.",
+        "visual": "color"
+      },
+      {
+        "title": "Gigante gelado",
+        "text": "Sou chamado gigante de gelo. Minha atmosfera é muito fria!",
+        "visual": "cold"
+      },
+      {
+        "title": "O sétimo planeta",
+        "text": "Sou o sétimo planeta a partir do Sol.",
+        "visual": "order"
+      },
+      {
+        "title": "Anéis discretos",
+        "text": "Também tenho anéis. São escuros e difíceis de enxergar.",
+        "visual": "ring"
+      }
+    ]
+  },
+  {
+    "id": "neptune",
+    "name": "Netuno",
+    "tagline": "Azul, distante e ventoso",
+    "category": "planetas",
+    "color": "#6a99ef",
+    "game": "wind",
+    "emoji": "🔵",
+    "intro": "Oi, Tomás! Eu sou Netuno, o planeta mais distante do Sol!",
+    "facts": [
+      {
+        "title": "Último dos oito",
+        "text": "Sou o oitavo planeta na ordem a partir do Sol.",
+        "visual": "order"
+      },
+      {
+        "title": "Ventos muito fortes",
+        "text": "Minha atmosfera tem ventos muito velozes. Que ventania!",
+        "visual": "wind"
+      },
+      {
+        "title": "Muito longe do Sol",
+        "text": "A luz solar chega fraquinha aqui. É muito frio!",
+        "visual": "cold"
+      },
+      {
+        "title": "Uma volta demorada",
+        "text": "Um ano aqui dura cerca de 165 anos terrestres.",
+        "visual": "orbit"
+      },
+      {
+        "title": "Lua ao contrário",
+        "text": "Minha lua Tritão gira no sentido contrário à minha rotação.",
+        "visual": "orbit"
+      }
+    ]
+  },
+  {
+    "id": "rockets",
+    "name": "Foguetes",
+    "tagline": "Três, dois, um… vamos!",
+    "category": "aventuras",
+    "color": "#9af0ce",
+    "game": "rocket",
+    "emoji": "🚀",
+    "intro": "Preparado, comandante Tomás? Vamos descobrir como um foguete voa!",
+    "facts": [
+      {
+        "title": "Um empurrão poderoso",
+        "text": "O foguete joga gases para trás. Isso o empurra para frente!",
+        "visual": "thrust"
+      },
+      {
+        "title": "Funciona no espaço",
+        "text": "Foguetes também funcionam onde quase não existe ar.",
+        "visual": "thrust"
+      },
+      {
+        "title": "Cada peça tem função",
+        "text": "Motores empurram. Tanques guardam combustível. A cápsula leva astronautas.",
+        "visual": "build"
+      },
+      {
+        "title": "Viagem em etapas",
+        "text": "Alguns foguetes soltam partes usadas. Assim, carregam menos peso!",
+        "visual": "build"
+      },
+      {
+        "title": "Exploradores robóticos",
+        "text": "Foguetes também levam satélites e robôs exploradores ao espaço.",
+        "visual": "rover"
+      }
+    ]
+  },
+  {
+    "id": "blackhole",
+    "name": "Buracos negros",
+    "tagline": "Um mistério para descobrir",
+    "category": "universo",
+    "color": "#b899ff",
+    "game": "boost",
+    "emoji": "🌀",
+    "intro": "Tomás, vamos observar um buraco negro. Nossa nave está segura!",
+    "facts": [
+      {
+        "title": "Gravidade muito forte",
+        "text": "Muito perto, sua gravidade impede até a luz de escapar.",
+        "visual": "pull"
+      },
+      {
+        "title": "Não é um aspirador",
+        "text": "De longe, ele atrai como outros objetos com mesma massa.",
+        "visual": "orbit"
+      },
+      {
+        "title": "Um limite especial",
+        "text": "O horizonte de eventos é um limite sem caminho de volta.",
+        "visual": "ring"
+      },
+      {
+        "title": "Como conseguimos estudar?",
+        "text": "Cientistas observam seus efeitos na luz e nos objetos vizinhos.",
+        "visual": "light"
+      },
+      {
+        "title": "Estamos bem seguros",
+        "text": "Não existe buraco negro perto o suficiente para engolir a Terra.",
+        "visual": "safe"
+      }
+    ]
+  },
+  {
+    "id": "galaxy",
+    "name": "Galáxias",
+    "tagline": "Uma imensidão de estrelas",
+    "category": "universo",
+    "color": "#dba6f5",
+    "game": "draw",
+    "emoji": "🌌",
+    "intro": "Bem-vindo, Tomás! Vamos passear entre muitas, muitas estrelas!",
+    "facts": [
+      {
+        "title": "Nossa casa gigante",
+        "text": "O Sol pertence à Via Láctea. Ela é nossa galáxia!",
+        "visual": "star"
+      },
+      {
+        "title": "Braços de estrelas",
+        "text": "A Via Láctea tem braços em espiral e uma barra central.",
+        "visual": "spiral"
+      },
+      {
+        "title": "Muitas formas",
+        "text": "Existem galáxias espirais, elípticas e irregulares. Quanta variedade!",
+        "visual": "shape"
+      },
+      {
+        "title": "Outras estrelas, outros mundos",
+        "text": "Muitas estrelas têm planetas. Chamamos esses mundos de exoplanetas.",
+        "visual": "orbit"
+      },
+      {
+        "title": "Um céu muito antigo",
+        "text": "Luz leva tempo para viajar. Vemos estrelas como eram antes.",
+        "visual": "light"
+      }
+    ]
+  },
+  {
+    "id": "comets",
+    "name": "Cometas e asteroides",
+    "tagline": "Viajantes de gelo e rocha",
+    "category": "universo",
+    "color": "#81e5eb",
+    "game": "sum",
+    "emoji": "☄️",
+    "intro": "Tomás, veja esses viajantes espaciais! Vamos contar juntos?",
+    "facts": [
+      {
+        "title": "Cometas têm gelo",
+        "text": "Cometas contêm gelo, poeira e rochas.",
+        "visual": "ice"
+      },
+      {
+        "title": "Uma cauda aparece",
+        "text": "Perto do Sol, cometas liberam gases e poeira, formando caudas.",
+        "visual": "tail"
+      },
+      {
+        "title": "Asteroides são diferentes",
+        "text": "Asteroides são principalmente rochosos ou metálicos.",
+        "visual": "rock"
+      },
+      {
+        "title": "Entre Marte e Júpiter",
+        "text": "Muitos asteroides ficam num cinturão entre Marte e Júpiter.",
+        "visual": "orbit"
+      },
+      {
+        "title": "Estrela cadente?",
+        "text": "É um meteoro brilhando na atmosfera. Não é uma estrela!",
+        "visual": "light"
+      }
+    ]
+  },
+  {
+    "id": "astronaut",
+    "name": "Vida no espaço",
+    "tagline": "Um dia de astronauta",
+    "category": "aventuras",
+    "color": "#ffb5bc",
+    "game": "dress",
+    "emoji": "🧑‍🚀",
+    "intro": "Vamos preparar seu traje, Tomás! Hoje você é o astronauta!",
+    "facts": [
+      {
+        "title": "Um traje especial",
+        "text": "O traje fornece oxigênio e ajuda a proteger o astronauta.",
+        "visual": "suit"
+      },
+      {
+        "title": "Por que flutuamos?",
+        "text": "Na estação, tudo cai junto ao redor da Terra. Parece flutuar!",
+        "visual": "float"
+      },
+      {
+        "title": "Ainda existe gravidade",
+        "text": "A gravidade continua agindo na estação espacial.",
+        "visual": "pull"
+      },
+      {
+        "title": "Comidinhas organizadas",
+        "text": "Pacotes ajudam a segurar a comida. Assim, ela não sai flutuando!",
+        "visual": "food"
+      },
+      {
+        "title": "Corpo em movimento",
+        "text": "Astronautas fazem exercícios para cuidar dos músculos e dos ossos.",
+        "visual": "jump"
+      }
+    ]
+  },
+  {
+    "id": "numbers",
+    "name": "Números espaciais",
+    "tagline": "Contar é uma aventura",
+    "category": "brincadeiras",
+    "color": "#fbdc75",
+    "game": "numbers",
+    "emoji": "🔢",
+    "intro": "Um, dois, três! Vamos brincar com os números, Tomás!",
+    "facts": [
+      {
+        "title": "Cada coisa, um número",
+        "text": "Tocamos cada estrela uma vez para contar direitinho.",
+        "visual": "count"
+      },
+      {
+        "title": "Do pequeno ao grande",
+        "text": "Um, dois, três, quatro, cinco. Os números seguem uma ordem!",
+        "visual": "order"
+      },
+      {
+        "title": "Juntar é somar",
+        "text": "Uma estrela e mais uma estrela são duas estrelas.",
+        "visual": "count"
+      },
+      {
+        "title": "Quem vem depois?",
+        "text": "Depois do cinco, vem o seis. Vamos continuar contando?",
+        "visual": "order"
+      },
+      {
+        "title": "Até dez",
+        "text": "Seis, sete, oito, nove, dez. Dez dedos ajudam a contar!",
+        "visual": "count"
+      }
+    ]
+  },
+  {
+    "id": "shapes",
+    "name": "Cores e formas",
+    "tagline": "Uma paleta de descobertas",
+    "category": "brincadeiras",
+    "color": "#b6a2f4",
+    "game": "shapes",
+    "emoji": "🎨",
+    "intro": "Olhe as cores e as formas, Tomás! Vamos encontrar pares?",
+    "facts": [
+      {
+        "title": "Uma forma redondinha",
+        "text": "Planetas são quase esféricos. No desenho, parecem círculos.",
+        "visual": "shape"
+      },
+      {
+        "title": "Estrelas de verdade",
+        "text": "Estrelas são enormes bolas de gás. Pontinhas são nosso desenho!",
+        "visual": "star"
+      },
+      {
+        "title": "Caminho em espiral",
+        "text": "Uma espiral dá voltas, chegando perto ou longe do centro.",
+        "visual": "spiral"
+      },
+      {
+        "title": "As cores dos mundos",
+        "text": "A Terra parece azul. Marte parece avermelhado.",
+        "visual": "color"
+      },
+      {
+        "title": "Encontrando pares",
+        "text": "Podemos juntar objetos pela cor ou pela forma.",
+        "visual": "shape"
+      }
+    ]
+  },
+  {
+    "id": "light",
+    "name": "Luz e velocidade",
+    "tagline": "Rápido, devagar e brilhante",
+    "category": "brincadeiras",
+    "color": "#fce492",
+    "game": "race",
+    "emoji": "💡",
+    "intro": "Tomás, vamos descobrir quem viaja mais rápido!",
+    "facts": [
+      {
+        "title": "A luz viaja",
+        "text": "A luz precisa de tempo para chegar de um lugar.",
+        "visual": "light"
+      },
+      {
+        "title": "Muito, muito rápida",
+        "text": "No vácuo, nada transporta informação mais rápido que a luz.",
+        "visual": "light"
+      },
+      {
+        "title": "Foguetes são rápidos",
+        "text": "Foguetes são rápidos para nós. A luz é muito mais rápida!",
+        "visual": "thrust"
+      },
+      {
+        "title": "Devagar também é legal",
+        "text": "A tartaruga anda devagar. Cada um tem seu jeito!",
+        "visual": "slow"
+      },
+      {
+        "title": "Luz para enxergar",
+        "text": "Vemos objetos quando a luz deles chega aos nossos olhos.",
+        "visual": "light"
+      }
+    ]
+  },
+  {
+    "id": "order",
+    "name": "Sistema Solar",
+    "tagline": "Oito planetas, uma estrela",
+    "category": "brincadeiras",
+    "color": "#78d9e6",
+    "game": "order",
+    "emoji": "🪐",
+    "intro": "Vamos montar o Sistema Solar! O Sol fica no centro!",
+    "facts": [
+      {
+        "title": "Os primeiros quatro",
+        "text": "Mercúrio, Vênus, Terra e Marte são planetas rochosos.",
+        "visual": "order"
+      },
+      {
+        "title": "Os próximos quatro",
+        "text": "Júpiter, Saturno, Urano e Netuno ficam mais longe do Sol.",
+        "visual": "order"
+      },
+      {
+        "title": "Caminhos chamados órbitas",
+        "text": "Os planetas seguem caminhos ao redor do Sol: suas órbitas.",
+        "visual": "orbit"
+      },
+      {
+        "title": "E o pequeno Plutão?",
+        "text": "Plutão é um planeta anão. Continua fazendo parte dessa turma!",
+        "visual": "size"
+      },
+      {
+        "title": "Um modelo para brincar",
+        "text": "Aqui tamanhos e distâncias foram ajustados para caber na tela.",
+        "visual": "size"
+      }
+    ]
+  }
+]
